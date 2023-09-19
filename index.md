@@ -6,3 +6,7 @@
 ```
 If not, then why not
 ```
+- [ ] Let's make a list!
+- [ ] Do this
+- [ ] And this
+- [ ] And That!
